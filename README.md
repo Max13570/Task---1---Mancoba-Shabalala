@@ -47,7 +47,7 @@ The codebase leverages a specialized, structured layout engine and a highly scal
 
 ## 👥 Connect with Me
 *   **GitHub:** [Max13570](https://github.com/Max13570)
-*   **LinkedIn:** [Mancoba Shabalala](https://linkedin.com/in/mancoba-shabalala)
+*   **LinkedIn:** [maxwell-shabalala-315425249(https://linkedin.com/in/maxwell-shabalala-315425249)
 
 ***
 
